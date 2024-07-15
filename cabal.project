@@ -5,7 +5,7 @@ source-repository-package
   location: https://github.com/slotThe/pandoc-sidenote
   tag: a87380c13dd0433c2614164477f5a1b425329c22
 
-packages: ./tonys-site.cabal
+packages: ./dans-site.cabal
 
 constraints: pandoc-sidenote +html-sidenotes
 
