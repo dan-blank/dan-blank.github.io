@@ -21,7 +21,7 @@ Further—less direct—inspirations include [gwern.net][gwern.net] and
 [node]: https://nodejs.org/en/download/package-manager
 [pygmentize]: https://pygments.org/download/
 [nix]: https://nixos.org/download/
-[slotThe.github.io]: https://github.com/slotThe/slotThe.github.io
+[slotThe.github.io]: https://github.com/dan-blank/dan-blank.github.io
 
 ## Build
 
